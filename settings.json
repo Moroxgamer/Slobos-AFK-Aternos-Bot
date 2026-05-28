@@ -9,7 +9,7 @@
     "ip": "Morox.aternos.me",
     "port": 12582,
     "version": "26.1.2",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
